@@ -1,0 +1,33 @@
+* {
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+.btn {
+	background-color: yellow;
+	color: purple;
+	border: 2px solid purple;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+.rounded {border-radius: 10px;}
+
+
+.btn:hover {
+	background-color: purple;
+	color: yellow;
+	border: 2px solid yellow;
+	
+	
+}
+
+/* Images */
+
+img {width: 50%;}
+
+img:hover {border: 5px solid red;}
